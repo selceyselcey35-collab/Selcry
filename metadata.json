@@ -1,0 +1,6 @@
+{
+  "name": "Chronos",
+  "description": "Lüks saat alım-satım pazar yeri, bağımsız ekspertiz sertifikasyonu, akıllı karşılaştırma ve güvenli küresel ödeme platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
